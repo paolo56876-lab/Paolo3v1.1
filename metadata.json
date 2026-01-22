@@ -1,0 +1,8 @@
+{
+  "name": "Paolo3 AI v1.2",
+  "description": "La IA definitiva evolucionada. Búsqueda web, análisis de video, generación de imágenes y chat inteligente por Paolo3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
